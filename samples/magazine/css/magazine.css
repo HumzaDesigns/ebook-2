@@ -216,9 +216,10 @@ body{
 }
 
 .thumbnails > div{
-	width:1050px;
-	height:100px;
+	width:1250px;
+	height:125px;
 	margin:20px auto;
+	overflow: hidden;
 }
 
 .thumbnails ul{

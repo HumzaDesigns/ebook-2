@@ -316,7 +316,7 @@ function loadApp() {
 		
 		var page;
 
-		if (event.target && (page=/page-([0-14]+)/.exec($(event.target).attr('class'))) ) {
+		if (event.target && (page=/page-([0-8]+)/.exec($(event.target).attr('class'))) ) {
 		
 			$('.magazine').turn('page', page[1]);
 		}

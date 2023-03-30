@@ -18,7 +18,7 @@
 		}
 },
 {
-	"x":185,
+	"x":93,
 	"y":430,
 	"width":100,
 	"height":25,
@@ -26,6 +26,17 @@
 	"data":
 		{
 		"url":"https://xchangemarket.com/join/"
+		}
+},
+{
+	"x":280,
+	"y":430,
+	"width":100,
+	"height":25,
+	"class":"link",
+	"data":
+		{
+		"url":"https://www.xchangemarket.com/xchangeHD-test.php"
 		}
 },
 {
